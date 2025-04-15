@@ -81,7 +81,4 @@ Dive into the world of fullstack development with my latest tutorial, where I wa
 
 - [https://discord.com/invite/MdAuvJBdGk](Discord)
 
-## For Support, Contact:
 
-- Email: codewavewithasante@gmail.com
-- Telegram Chat: [https://t.me/Codewave_with_asante](https://t.me/Codewave_with_asante)
