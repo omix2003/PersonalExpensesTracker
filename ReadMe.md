@@ -77,8 +77,5 @@ Dive into the world of fullstack development with my latest tutorial, where I wa
 
 &nbsp;
 
-## JOIN DISCORD SERVER:
-
-- [https://discord.com/invite/MdAuvJBdGk](Discord)
 
 
